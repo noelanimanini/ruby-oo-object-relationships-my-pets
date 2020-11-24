@@ -1,0 +1,8 @@
+QA 
+
+require 'pry' 
+
+max_by ----enumerable version of max returns an array of maximum elements of the condition of the block. 
+
+map - transform, create a new array that is a transformed version of the old array; each term is a transformed version of that index from the old array. 
+    
